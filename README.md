@@ -123,4 +123,7 @@ Submissions are to be made through GitHub Pull Requests. To know more about how 
 
 > All The Best 🎉🎉.
 
-Suhani Garg| 9893436218| A website for all the movie enthusiasts who do not have the time to watch movies, just read it.| 
+
+
+-> Suhani Garg| 9893436218| A website for all the movie enthusiasts who do not have the time to watch movies, just read it.| 
+-> Link to acces website: https://suhanigarg29.github.io/Debugit_2022/  or  https://debugit-2022-chi.vercel.app/
