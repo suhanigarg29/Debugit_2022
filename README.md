@@ -122,3 +122,5 @@ Submissions are to be made through GitHub Pull Requests. To know more about how 
   ![](./lib/pat.gif)
 
 > All The Best 🎉🎉.
+
+Suhani Garg| 9893436218| A website for all the movie enthusiasts who do not have the time to watch movies, just read it.| 
